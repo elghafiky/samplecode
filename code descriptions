@@ -1,0 +1,6 @@
+Python code: https://github.com/elghafiky/samplecode/tree/main/geocoding_kecamatan.py 
+- My co-author (Lolita Moorena) and I use this code to scrape subdistrict's latitude and longitude in Indonesia from Google Maps. This code is part of a study funded by a research grant from Asian Development Bank Institute.
+R code: https://github.com/elghafiky/samplecode/tree/main/2%20data%20cleaning.R 
+- I use this R code (incomplete) for data cleaning in my Applied Econometrics master course project. The study is about evaluating the impact of Indonesia's new marriage law on the incidence of child marriage using RDD and cohort-region DiD.
+Stata code: https://github.com/elghafiky/samplecode/blob/main/complete%20cl%20code.do 
+- I use this code for my master thesis on the impact of Indonesian child labor reform on incidence of child labor and adult outcomes using RDD. 
