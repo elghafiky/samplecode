@@ -1,1 +1,1 @@
-This repository contains samples of code that I've written for my research. These code samples are only displayed for prospective employers and not to be used for replication or modified in any other research. 
+This repository contains samples of code that I've written for my research. These code samples are only displayed for prospective employers and not to be used for replication or modified in any other research without my permission. 
